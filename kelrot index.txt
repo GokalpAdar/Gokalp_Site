@@ -32,34 +32,19 @@
         <section id="education">
             <h2>Eğitim</h2>
             <ul>
-				<li>
-                    <strong >İstanbul Teknik Üniversitesi</strong><br>
-                    <small>Kontrol ve Otomasyon Mühendisliği</small><br>
-                </li>
                 <li>
                     <strong >Kabataş Erkek Lisesi</strong><br>
-                    '12<br>
+                    '25<br>
                 </li>
-				<li>
-                    <strong >İstanbul Üniversitesi</strong><br>
-                    <small>Tarih</small><br>
-                </li>
-				<li>
-                    <strong >Anadolu Üniversitesi</strong><br>
-                    <small>İlahiyat</small><br>
-                </li>
-            </ul>
+				</ul>
         </section>
         <section id="skills">
             <h2>Yetenekler</h2>
             <ol>
                 <li>
-                    Büyü
+                    Yüzme
                 </li>
-                <li>
-                    Cıss
-                </li>
-            </ol>
+               </ol>
         </section>
 		 <section id="dreams">
             <h2>Hayaller</h2>
@@ -81,13 +66,15 @@
 				</li>
             </ol>
         </section>
-    
 	</article>
 </main>
 <footer>
     <section id="contact">
         <h2>İletişim</h2>
         <ul>
+		<li>
+                Telefon Numarası:
+                </li>
             <li>
                 <a href="mailto:adargokalp26@gmail.com">E-mail</a>
             </li>
